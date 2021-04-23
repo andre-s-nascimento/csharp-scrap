@@ -30,6 +30,7 @@ namespace selenium
             // Cria o arquivo e insere o texto
             File.WriteAllText(Path.Combine(filePath, fileName), fileText);
 
+            //Encerra o navegador
             driver.Quit();
         }
     }
