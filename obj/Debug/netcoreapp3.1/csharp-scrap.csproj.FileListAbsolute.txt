@@ -1,0 +1,16 @@
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\bin\Debug\netcoreapp3.1\csharp-scrap.exe
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\bin\Debug\netcoreapp3.1\csharp-scrap.deps.json
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\bin\Debug\netcoreapp3.1\csharp-scrap.runtimeconfig.json
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\bin\Debug\netcoreapp3.1\csharp-scrap.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\bin\Debug\netcoreapp3.1\csharp-scrap.dll
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\bin\Debug\netcoreapp3.1\csharp-scrap.pdb
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\obj\Debug\netcoreapp3.1\csharp-scrap.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\obj\Debug\netcoreapp3.1\csharp-scrap.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\obj\Debug\netcoreapp3.1\csharp-scrap.AssemblyInfo.cs
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\obj\Debug\netcoreapp3.1\csharp-scrap.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\obj\Debug\netcoreapp3.1\csharp-scrap.dll
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\obj\Debug\netcoreapp3.1\csharp-scrap.pdb
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\obj\Debug\netcoreapp3.1\csharp-scrap.genruntimeconfig.cache
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\andre\OneDrive\programacao\selenium-web\csharp\csharp-scrap\obj\Debug\netcoreapp3.1\csharp-scrap.csproj.CopyComplete
